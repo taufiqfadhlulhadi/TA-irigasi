@@ -1,0 +1,70 @@
+F:\Desktop\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe.config
+F:\Desktop\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe
+F:\Desktop\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.pdb
+F:\Desktop\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.xml
+F:\Desktop\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbprojResolveAssemblyReference.cache
+F:\Desktop\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Form1.resources
+F:\Desktop\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Resources.resources
+F:\Desktop\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbproj.GenerateResource.Cache
+F:\Desktop\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.exe
+F:\Desktop\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.xml
+F:\Desktop\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.pdb
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe.config
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.exe
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.xml
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.pdb
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.pdb
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.xml
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbprojResolveAssemblyReference.cache
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Form1.resources
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Resources.resources
+G:\PROPOSAL MITA\PROJECT\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbproj.GenerateResource.Cache
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe.config
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.exe
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.xml
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.pdb
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.pdb
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.xml
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbprojResolveAssemblyReference.cache
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Form1.resources
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Resources.resources
+C:\Users\Akibara\Downloads\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbproj.GenerateResource.Cache
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe.config
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.exe
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.xml
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.pdb
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.exe
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.pdb
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\bin\Debug\GameIrigasi.xml
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbprojResolveAssemblyReference.cache
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Form1.resources
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.Resources.resources
+G:\PROPOSAL MITA\GameIrigasi\GameIrigasi\obj\Debug\GameIrigasi.vbproj.GenerateResource.Cache
+G:\GameIrigasi\bin\Debug\GameIrigasi.exe.config
+G:\GameIrigasi\obj\Debug\GameIrigasi.exe
+G:\GameIrigasi\obj\Debug\GameIrigasi.xml
+G:\GameIrigasi\obj\Debug\GameIrigasi.pdb
+D:\Visual Studio Project\GameIrigasi\bin\Debug\GameIrigasi.exe.config
+D:\Visual Studio Project\GameIrigasi\obj\Debug\GameIrigasi.exe
+D:\Visual Studio Project\GameIrigasi\obj\Debug\GameIrigasi.xml
+D:\Visual Studio Project\GameIrigasi\obj\Debug\GameIrigasi.pdb
+D:\Visual Studio Project\GameIrigasi - Copy\bin\Debug\GameIrigasi.exe.config
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.exe
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.xml
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.pdb
+D:\Visual Studio Project\GameIrigasi - Copy\bin\Debug\GameIrigasi.exe
+D:\Visual Studio Project\GameIrigasi - Copy\bin\Debug\GameIrigasi.pdb
+D:\Visual Studio Project\GameIrigasi - Copy\bin\Debug\GameIrigasi.xml
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.vbprojResolveAssemblyReference.cache
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.Resources.resources
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.vbproj.GenerateResource.Cache
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.Hilir.resources
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.Hulu.resources
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.Tengah.resources
+D:\Visual Studio Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.Main_menu.resources
+D:\Visual-Studio-Project\GameIrigasi - Copy\bin\Debug\GameIrigasi.exe.config
+D:\Visual-Studio-Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.exe
+D:\Visual-Studio-Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.xml
+D:\Visual-Studio-Project\GameIrigasi - Copy\obj\Debug\GameIrigasi.pdb
